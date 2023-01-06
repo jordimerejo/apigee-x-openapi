@@ -3,6 +3,9 @@ Apigee X Proxy Bundle to OpenAPI Specification v3.1.0 conversion tool
 
 Apigee Edge Proxy to OpenAPI 2.0 (formerly known as Swagger) conversion tool. This project used to be called `apigee2swagger` prior to the specification becoming part of the [OpenAPI Initiative](https://openapis.org).
 
+# Note
+This is a adaptation from source code Anil Sagar https://github.com/anil614sagar/apigee2openapi to covert GCP Apigee X to OpenApi v3.10
+
 # Installation
 
 You can install `apigee-x-openapi` either through npm or by cloning and linking the code from GitHub.  This document covers the installation details for installing from npm.
